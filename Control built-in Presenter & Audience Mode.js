@@ -2,7 +2,7 @@
 import xapi from 'xapi';
 /*
 ===============================================================================
- Cisco Presenter and Audience Mode Control
+Presenter and Audience Mode Control
 ===============================================================================
 Purpose:
 - Creates a RoomOS 11+ home screen UI tile with a Sliders icon.
