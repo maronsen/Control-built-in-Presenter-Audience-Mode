@@ -1,0 +1,2 @@
+# Control built-in Presenter & Audience Mode
+This macro provides a RoomOS UI control for enabling or disabling Cisco’s built-in Presenter and Audience room mode, allowing users to switch between PresenterAndAudience and Standard room types without manually running xAPI commands. It is useful for rooms where Cisco’s native presenter/audience camera behavior should be easy to control from the touch panel, while also preventing unsupported startup behavior when Microsoft Teams Rooms is detected.
